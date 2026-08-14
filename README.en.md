@@ -35,6 +35,7 @@ mao-thinking/
 ├── README.md                # Chinese README
 ├── README.en.md             # This file (English README)
 ├── LICENSE                  # MIT
+├── CHANGELOG.md             # Version history (target of the "updated" badge)
 ├── references/
 │   ├── models.md            # Full breakdown of the 21 thinking models
 │   └── applications.md      # Applied-article highlights (burnout, sectarianism, open strategy…)
@@ -42,7 +43,8 @@ mao-thinking/
     ├── example-独立开发者决策.md        # Test: solo-dev "quit job or not" decision
     ├── example-产品规划-功能优先级.md    # Test: product planning / feature priority
     ├── example-人际博弈-跨部门谈判.md    # Test: interpersonal game / cross-team negotiation
-    └── example-技术战略-技术债重构.md    # Test: tech strategy / tech-debt vs rebuild
+    ├── example-技术战略-技术债重构.md    # Test: tech strategy / tech-debt vs rebuild
+    └── examples.en.md         # English summary of all 4 examples (overseas entry point)
 ```
 
 ---
@@ -113,6 +115,10 @@ Full tests live in [`examples/`](examples/). Three domains are covered:
 - **Product planning** — [build B-side or deepen C-side? feature priority](examples/example-产品规划-功能优先级.md)
 - **Interpersonal game** — [negotiating headcount with a dominant VP](examples/example-人际博弈-跨部门谈判.md)
 - **Tech strategy** — [tech debt vs rewrite](examples/example-技术战略-技术债重构.md)
+
+🌐 **Non-Chinese readers:** see [`examples/examples.en.md`](examples/examples.en.md) — a condensed English summary of all four cases (question → principal contradiction → strategy → takeaway) that proves the framework works cross-domain without reading the Chinese sources.
+
+📌 Version history is in [`CHANGELOG.md`](CHANGELOG.md).
 
 Short demo:
 

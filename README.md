@@ -35,6 +35,7 @@ mao-thinking/
 ├── README.md                # 本文件（中文）
 ├── README.en.md             # 英文 README
 ├── LICENSE                  # MIT 开源协议
+├── CHANGELOG.md             # 版本与更新记录（updated badge 指向）
 ├── references/
 │   ├── models.md            # 21 个思维模型完整拆解（四/五步法 + 历史案例 + 现代应用）
 │   └── applications.md      # 公众号应用文章精华（内耗、关门主义、阳谋、重新定义问题…）
@@ -42,7 +43,8 @@ mao-thinking/
     ├── example-独立开发者决策.md       # 实测：个人/职业——要不要 all-in 做产品
     ├── example-产品规划-功能优先级.md    # 实测：产品规划——做 B 端还是深耕 C 端
     ├── example-人际博弈-跨部门谈判.md    # 实测：人际博弈——向强势 VP 争取资源
-    └── example-技术战略-技术债重构.md    # 实测：技术战略——技术债 vs 重构
+    ├── example-技术战略-技术债重构.md    # 实测：技术战略——技术债 vs 重构
+    └── examples.en.md         # 英文示例摘要（海外读者入口，4 例浓缩）
 ```
 
 ---
@@ -113,6 +115,10 @@ git clone <本仓库地址>
 - **产品规划** —— [做 B 端还是深耕 C 端？](examples/example-产品规划-功能优先级.md)：用"集中优势兵力于己方强点"规避"看市场大就冲"的直觉陷阱。
 - **人际博弈** —— [向强势 VP 争取 HC](examples/example-人际博弈-跨部门谈判.md)：把"讲道理"重构为"绑定对方 KPI + 阳谋 + 有理有利有节"的主动局。
 - **技术战略** —— [技术债 vs 重构](examples/example-技术战略-技术债重构.md)：用"是否临界"定调，给出"边交付边还债"的渐进路线，规避速胜论/亡国论。
+
+🌐 **英文读者**：看 [`examples/examples.en.md`](examples/examples.en.md) —— 把上述 4 个示例浓缩成一篇英文摘要（问题→主要矛盾→战略→要点），无需读中文即可验证框架跨领域有效。
+
+📌 更新日志见 [`CHANGELOG.md`](CHANGELOG.md)。
 
 简版演示：
 
