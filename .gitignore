@@ -1,0 +1,32 @@
+# ===== 操作系统 / 编辑器 =====
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# ===== 日志 / 临时 =====
+*.log
+*.tmp
+.cache/
+
+# ===== 压缩包 / 构建产物 =====
+*.zip
+*.tar.gz
+*.rar
+dist/
+build/
+out/
+
+# ===== 密钥 / 环境变量 =====
+.env
+.env.*
+*.local
+secrets.json
+
+# ===== Node（若后续加入工具链）=====
+node_modules/
+
+# ===== 编辑器目录 =====
+.vscode/
+.idea/
