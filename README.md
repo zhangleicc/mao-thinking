@@ -4,6 +4,8 @@
 
 > 一套从《毛泽东选集》提炼的**通用分析框架**，适用于任何领域、任何难题的分析、决策与落地。
 
+![毛选思维方法论封面](assets/cover.png)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Methodology](https://img.shields.io/badge/methodology-毛选思维-red)](mao-thinking.md)
 [![Language](https://img.shields.io/badge/language-中文-blue)](README.md)
@@ -36,6 +38,8 @@ mao-thinking/
 ├── README.en.md             # 英文 README
 ├── LICENSE                  # MIT 开源协议
 ├── CHANGELOG.md             # 版本与更新记录（updated badge 指向）
+├── assets/
+│   └── cover.png            # GitHub 仓库宣传封面（1280×640）
 ├── references/
 │   ├── models.md            # 21 个思维模型完整拆解（四/五步法 + 历史案例 + 现代应用）
 │   └── applications.md      # 公众号应用文章精华（内耗、关门主义、阳谋、重新定义问题…）
@@ -79,6 +83,14 @@ git clone <本仓库地址>
 # 把 mao-thinking.md 放进你项目的 docs/ 或作为 AGENTS.md 的一部分
 # 也可在 Agent 脚本中读取注入上下文
 ```
+
+---
+
+## 🖼 GitHub 宣传封面
+
+仓库宣传封面已生成：[`assets/cover.png`](assets/cover.png)（1280×640）。
+
+进入 GitHub 仓库 **Settings → General → Social preview**，上传 `assets/cover.png`，即可在分享仓库链接、Twitter/X 卡片、微信等场景显示该封面。
 
 ---
 

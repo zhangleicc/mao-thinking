@@ -4,6 +4,8 @@ English | [中文](README.md)
 
 > A general-purpose analytical framework distilled from *Selected Works of Mao Zedong*, applicable to problems and decisions in **any domain**.
 
+![Mao-Thinking Cover](assets/cover.png)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Methodology](https://img.shields.io/badge/methodology-Mao--Thinking-red)](mao-thinking.md)
 [![Language](https://img.shields.io/badge/language-English-blue)](README.en.md)
@@ -36,6 +38,8 @@ mao-thinking/
 ├── README.en.md             # This file (English README)
 ├── LICENSE                  # MIT
 ├── CHANGELOG.md             # Version history (target of the "updated" badge)
+├── assets/
+│   └── cover.png            # GitHub repository social preview (1280×640)
 ├── references/
 │   ├── models.md            # Full breakdown of the 21 thinking models
 │   └── applications.md      # Applied-article highlights (burnout, sectarianism, open strategy…)
@@ -79,6 +83,14 @@ git clone <this repo>
 # drop mao-thinking.md into your project's docs/ or as part of AGENTS.md
 # or read it from an agent script to inject into context
 ```
+
+---
+
+## 🖼 GitHub Social Preview
+
+The repository cover is [`assets/cover.png`](assets/cover.png) (1280×640).
+
+Upload it under **Settings → General → Social preview** so it appears when the repo link is shared on Twitter/X, LinkedIn, WeChat, etc.
 
 ---
 
