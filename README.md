@@ -1,5 +1,7 @@
 # 毛选思维方法论（Mao-Thinking）
 
+[中文](README.md) | [English](README.en.md)
+
 > 一套从《毛泽东选集》提炼的**通用分析框架**，适用于任何领域、任何难题的分析、决策与落地。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -30,13 +32,17 @@ mao-thinking/
 ├── mao-thinking.md          # 通用粘贴版（核心，单文件自包含，可直接粘贴进任何 AI）
 ├── SKILL.md                 # Claude Skills / WorkBuddy 兼容版（含 name/description 头）
 ├── gpt-instructions.md      # OpenAI 自定义 GPT 的 Instructions 文本
-├── README.md                # 本文件
+├── README.md                # 本文件（中文）
+├── README.en.md             # 英文 README
 ├── LICENSE                  # MIT 开源协议
 ├── references/
 │   ├── models.md            # 21 个思维模型完整拆解（四/五步法 + 历史案例 + 现代应用）
 │   └── applications.md      # 公众号应用文章精华（内耗、关门主义、阳谋、重新定义问题…）
 └── examples/
-    └── example-独立开发者决策.md  # 框架实测示例：用标准模板分析一个真实决策
+    ├── example-独立开发者决策.md       # 实测：个人/职业——要不要 all-in 做产品
+    ├── example-产品规划-功能优先级.md    # 实测：产品规划——做 B 端还是深耕 C 端
+    ├── example-人际博弈-跨部门谈判.md    # 实测：人际博弈——向强势 VP 争取资源
+    └── example-技术战略-技术债重构.md    # 实测：技术战略——技术债 vs 重构
 ```
 
 ---
@@ -101,7 +107,12 @@ git clone <本仓库地址>
 
 ## 📝 使用示例
 
-完整实测见 [`examples/example-独立开发者决策.md`](examples/example-独立开发者决策.md) —— 一个"要不要辞职 all-in 做产品"的真实决策，展示了框架如何强制 AI 先抓**主要矛盾（需求真实性）**而非被"辞不辞职"带节奏，并把焦虑拆成 4 周可执行动作。
+完整实测见 [`examples/`](examples/)，覆盖四个领域：
+
+- **个人/职业** —— [要不要 all-in 做产品？](examples/example-独立开发者决策.md)：框架强制 AI 先抓"需求真实性"这一主要矛盾，而非被"辞不辞职"带节奏。
+- **产品规划** —— [做 B 端还是深耕 C 端？](examples/example-产品规划-功能优先级.md)：用"集中优势兵力于己方强点"规避"看市场大就冲"的直觉陷阱。
+- **人际博弈** —— [向强势 VP 争取 HC](examples/example-人际博弈-跨部门谈判.md)：把"讲道理"重构为"绑定对方 KPI + 阳谋 + 有理有利有节"的主动局。
+- **技术战略** —— [技术债 vs 重构](examples/example-技术战略-技术债重构.md)：用"是否临界"定调，给出"边交付边还债"的渐进路线，规避速胜论/亡国论。
 
 简版演示：
 
