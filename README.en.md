@@ -86,14 +86,6 @@ git clone <this repo>
 
 ---
 
-## 🖼 GitHub Social Preview
-
-The repository cover is [`assets/cover.png`](assets/cover.png) (1280×640).
-
-Upload it under **Settings → General → Social preview** so it appears when the repo link is shared on Twitter/X, LinkedIn, WeChat, etc.
-
----
-
 ## 🧭 Core Framework
 
 | Component | Content |

@@ -86,14 +86,6 @@ git clone <本仓库地址>
 
 ---
 
-## 🖼 GitHub 宣传封面
-
-仓库宣传封面已生成：[`assets/cover.png`](assets/cover.png)（1280×640）。
-
-进入 GitHub 仓库 **Settings → General → Social preview**，上传 `assets/cover.png`，即可在分享仓库链接、Twitter/X 卡片、微信等场景显示该封面。
-
----
-
 ## 🧭 核心框架速览
 
 | 组件 | 内容 |
